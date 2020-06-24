@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sign-up"
+    }
+  },
+  "defaultProject": "sign-up",
+  "cli": {
+    "analytics": false
+  }
 }

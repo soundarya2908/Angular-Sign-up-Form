@@ -1,0 +1,7 @@
+/* .mdl-textfield:not(.is-dirty) input::-webkit-datetime-edit {
+    color: transparent; 
+}
+
+input:focus::-webkit-datetime-edit {
+   color: rgba(255, 255, 255, .46) !important; 
+} */
